@@ -11,3 +11,5 @@
 `cd backend/`
 `npm i`
 `node server.js`
+
+##### И открыть index.html
