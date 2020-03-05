@@ -1,10 +1,10 @@
-### AdCombo Skil evaluation
+### AdCombo Skill evaluation
 
 ## Чтобы запустить можно ввести
 
 `sh build.sh`
 
-##### и открыть index.html
+##### И открыть index.html
 
 # Или из корневого каталога
 
